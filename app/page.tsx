@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          Get rekt&nbsp;
           <code className={styles.code}>app/page.tsx</code>
         </p>
       </div>
@@ -38,9 +38,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            Stuff <span>-&gt;</span>
           </h2>
-          <p>Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>Docs go here and stuff.</p>
         </a>
 
         <a
@@ -52,7 +52,7 @@ export default function Home() {
           <h2>
             Quickstart <span>-&gt;</span>
           </h2>
-          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
+          <p>Autodeplyment etc.</p>
         </a>
 
         <a
