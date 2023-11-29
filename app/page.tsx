@@ -64,7 +64,7 @@ export default function Home() {
           <h2>
             Auth <span>-&gt;</span>
           </h2>
-          <p>Zero-config Auth UI components with social sign-in and MFA.</p>
+          <p>Zero herehre.</p>
         </a>
 
         <a
